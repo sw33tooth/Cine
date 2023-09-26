@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+    <title> Christopher Nolan </title>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="../index.html">Inicio</a></li>
+                    <li>Directores
+                        <ul>
+                            <li><a href="christopher-nolan.html">Christopher Nolan</a></li>
+                            <li><a href="stanley-kubrick.html">Stanley Kubrick</a></li>
+                            <li><a href="woody-allen.html">Woody Allen</a></li>
+                        </ul>
+                    </li>
+                    <li>Películas
+                        <ul>
+                            <li><a href="../películas/interestellar.html">Interestellar</a></li>
+                            <li><a href="../películas/la-naranja-mecanica.html">La naranja mecánica</a></li>
+                            <li><a href="../películas/medianoche-en-paris.html">Medianoche en París</a></li>
+                        </ul>
+                    </li>
+    
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h1>Directores de cine</h1>
+            <section>
+                <h2>Christopher Nolan</h2>
+                <img src="../assets/images/christopher_nolan.jpg" alt="foto de Christopher Nolan en una alfombra roja">
+                <p>Christopher Nolan (nacido el 30 de julio de 1970) es un director de cine, guionista, productor y editor inglés-estadounidense, nominado en tres ocasiones al Óscar. En sus películas se tratan con frecuencia temas de la psicología, como la memoria en Memento o los sueños en Inception. Ya desde sus inicios fue reconocido por su trabajo en su primer largometraje Following. Nolan saltó a la fama con su segundo largometraje Memento, basado en un relato corto escrito por su propio hermano, Jonathan Nolan, que luego adaptarían juntos a un guión convencional para rodar la película y por el cual fueron candidatos al Óscar en la categoría de mejor guión original.</p>
+            </section>
+            <section>
+                <h3>Filmografía</h3>
+                    <ul>
+                        <li>FOLLOWING (1998) con Jeremy Theobald, Alex Haw, Lucy Russell.</li>
+                        <li>MEMENTO (2000) con Guy Pearce, Carrie-Anne Moss, Joe Pantoliano.</li>
+                        <li>INSOMNIO (2002) con Al Pacino, Robin Williams, Hilary Swank.</li>
+                        <li>BATMAN BEGINS (2005) con Christian Bale, Katie Holmes, Michael Caine.</li>
+                        <li>TRUCO FINAL – EL PRESTIGIO (2006) con Hugh Jackman, Christian Bale, Scarlett Johansson</li>
+                        <li>EL CABALLERO OSCURO (2008) con Christian Bale, Heath Ledger, Michael Caine.</li>
+                        <li>ORIGEN (2010) con Leonardo DiCaprio, Ellen Page, Cillian Murphy</li>
+                        <li>EL CABALLERO OSCURO. LA LEYENDA RENACE (2012) con Christian Bale, Tom Hardy, Anne Hathaway</li>
+                        <li><a href="../películas/interestellar.html" target="_blank">INTERSTELLAR (2014)</a> con Matthew McConaughey, Jessica Chastain, Anne Hathaway</li>
+                        <li>DUNKIRK (2017) con Tom Hardy, Mark Rylance, Kenneth Branagh</li>
+                        <li>TENET (2020)</li>
+                    </ul>
+            </section>
+        </main>
+        <footer>
+            <h3>Visita nuestras redes sociales</h3>
+            <ul>
+                <li><a href="#">Facebook</a></li>
+                <li><a href="#">Instagram</a></li>
+                <li><a href="#">X</a></li>
+            </ul>
+        </footer>
+    </body>
+</html>
